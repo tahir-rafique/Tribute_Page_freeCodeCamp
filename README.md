@@ -1,2 +1,2 @@
 # Live Preview:
-https://tahir-rafique.github.io/2-Tribute-Page-freeCodeCamp/
+https://tahir-rafique.github.io/Tribute-Page-freeCodeCamp/
